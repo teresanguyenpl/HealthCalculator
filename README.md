@@ -1,4 +1,4 @@
-# HealthAndFitnessCalculator
+# HealthCalculator
 
 A REST API using Node.js
 
